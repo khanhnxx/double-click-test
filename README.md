@@ -2,6 +2,8 @@
 
 Công cụ đơn giản để kiểm tra lỗi Double Click (kích đúp) của chuột máy tính.
 
+[👉 Trải nghiệm công cụ tại đây](https://khanhnxx.github.io/double-click-test/)
+
 ## 📌 Câu chuyện về dự án
 
 Vài năm trước, khi nghi ngờ con chuột đang dùng có dấu hiệu bị "double click", mình đã lang thang trên mạng và tình cờ tìm thấy đoạn code này của một bạn chia sẻ. Dù đã cẩn thận bookmark lại, nhưng mới đây khi cần dùng đến thì mình hoàn toàn lạc mất dấu vết của nó.
